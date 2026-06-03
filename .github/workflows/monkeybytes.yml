@@ -1,4 +1,4 @@
-name: MonkeyBytes 自动化
+name: MonkeyBytes
 
 on:
   schedule:
